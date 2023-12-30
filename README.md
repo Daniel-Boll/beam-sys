@@ -1,8 +1,12 @@
-# Beam-sys
+<h1 align="center">🔦 beam-sys</h1>
 
-## Overview
+<img align="left" src="./assets/logo.png" width=200 />
 
-`beam_sys` is a Rust library designed for the creation and manipulation of BEAM (Erlang VM) bytecode. It provides an intuitive API to generate `.beam` files, abstracting the intricacies of lower-level details. This project is inspired by the [Tsoding](https://github.com/tsoding) [bada project](https://github.com/tsoding/bada) and incorporates ideas from the [`llvm-sys`](https://lib.rs/crates/llvm-sys) and [`cranelift`](https://lib.rs/crates/cranelift) crates.
+> A Rust library designed for the creation and manipulation of BEAM (Erlang VM) bytecode
+
+The `beam_sys` project is a personal exploration and it try to provide an intuitive API to generate `.beam` files, abstracting the intricacies of lower-level details. This project is inspired by the [Tsoding](https://github.com/tsoding) [bada project](https://github.com/tsoding/bada) and incorporates ideas from the [`llvm-sys`](https://lib.rs/crates/llvm-sys) and [`cranelift`](https://lib.rs/crates/cranelift) crates.
+
+<br />
 
 ## Features
 
